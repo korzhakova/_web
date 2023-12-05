@@ -59,3 +59,14 @@ img{
 	padding:0px;
 	font-size: 20px;
 }
+
+button {
+	width: 150px;
+	appearance: none;
+	border: 0;
+	border-radius: 5px;
+	background: #000000;
+	color: #fff;
+	padding: 8px 16px;
+	font-size: 16px;
+	margin-left: 30px;
